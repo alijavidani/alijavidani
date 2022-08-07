@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alijavidani
 - 👀 I’m interested in AI/machine learning.
-- 🌱 I’m currently working on Self-Supervised Learning as a PhD student.
+- 🌱 I’m currently working on Self-Supervised Visual Representation Learning as a PhD student.
 - 📫 How to reach me: drop an email to alijavidanii@gmail.com
 
 <!---

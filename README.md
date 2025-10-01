@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @alijavidani
-- 👀 I’m interested in AI/machine learning.
-- 🌱 I’m currently working on Self-Supervised Visual Representation Learning as a PhD student.
-- 📫 How to reach me: drop an email to alijavidanii@gmail.com
+👋 Hi, I’m Ali Javidani
+🔬 Ph.D. in Artificial Intelligence
+🤖 Research interests: Machine Learning, Computer Vision, and Self-Supervised Representation Learning
+💡 Passionate about exploring cutting-edge AI methods and building practical solutions
+📫 Reach me at: alijavidanii@gmail.com
 
 <!---
 alijavidani/alijavidani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
